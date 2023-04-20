@@ -1,0 +1,1 @@
+All the electrical diagrams were made using the open-source QElectroTech tool.
